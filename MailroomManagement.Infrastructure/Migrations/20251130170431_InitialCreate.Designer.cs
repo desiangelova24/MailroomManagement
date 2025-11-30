@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace MailroomManagement.Infrastructure.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20251130102608_InitialCreate")]
+    [Migration("20251130170431_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
